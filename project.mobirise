@@ -358,7 +358,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<p><b>&nbsp; &nbsp; </b>INSTITUTO NACIONAL DE REHABILITACIÓN</p><p><br></p>",
+                "title": "<p><b>&nbsp;</b>INSTITUTO NACIONAL DE REHABILITACIÓN</p><p><br></p>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Órgano desconcentrado del ministerio de salud que se encarga de la atención especializada en el área de rehabilitación.",
