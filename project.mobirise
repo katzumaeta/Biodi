@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Proyecto de Biodiseño",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -988,7 +988,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page2.html\" class=\"text-white\">SEMANA 1</a>",
+                "caption": "<a href=\"page2.html\" class=\"text-white\" target=\"_blank\">SEMANA 1</a>",
                 "active": true
               },
               {
