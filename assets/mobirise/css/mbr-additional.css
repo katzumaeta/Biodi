@@ -1654,6 +1654,18 @@ body {
 .cid-rApuvUVBkX H2 {
   color: #efefef;
 }
+.cid-rBa5x5G1G6 {
+  background: #ffffff;
+}
+.cid-rBa5x5G1G6 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rBa5x5G1G6 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rApF0bAELm .navbar {
   padding: .5rem 0;
   background: #f9f295;
@@ -2180,16 +2192,4 @@ body {
 }
 .cid-rB4XXl9SGG .social-list a:focus {
   text-decoration: none;
-}
-.cid-rBa5x5G1G6 {
-  background: #ffffff;
-}
-.cid-rBa5x5G1G6 .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rBa5x5G1G6 .video-block {
-    width: 100% !important;
-  }
 }
