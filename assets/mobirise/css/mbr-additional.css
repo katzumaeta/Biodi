@@ -2181,18 +2181,6 @@ body {
 .cid-rB4XXl9SGG .social-list a:focus {
   text-decoration: none;
 }
-.cid-rBCnAEKcms {
-  background: #ffffff;
-}
-.cid-rBCnAEKcms .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rBCnAEKcms .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rBxQ2eKxO3 .navbar {
   padding: .5rem 0;
   background: #f9f295;
