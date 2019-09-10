@@ -589,7 +589,7 @@
                 "thumb": "@THEME_PATH@/components/_images/background3.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
+                "customStyle1": "display-4",
                 "caption": "PLAN DE TRABAJO Y DIAGRAMA DE GANTT",
                 "active": false
               },
