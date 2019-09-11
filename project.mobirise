@@ -564,7 +564,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-5",
-                "caption": "<a href=\"page2.html\" class=\"text-white\">CONTEXTO Y MARCO TEÓRICO</a>",
+                "caption": "<a href=\"page2.html\" class=\"text-white\" target=\"_blank\">CONTEXTO Y MARCO TEÓRICO</a>",
                 "active": true
               },
               {
@@ -577,7 +577,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-1",
-                "caption": "<a href=\"page3.html\" class=\"text-white\">PROBLEMÁTICA Y DEFINICIÓN DEL PROBLEMA&nbsp;</a>",
+                "caption": "<a href=\"page3.html\" class=\"text-white\" target=\"_blank\">PROBLEMÁTICA Y DEFINICIÓN DEL PROBLEMA&nbsp;</a>",
                 "active": false
               },
               {
